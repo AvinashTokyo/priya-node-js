@@ -1,0 +1,17 @@
+Node Js
+=====================
+
+Created two folder.
+1. client for Frontend.
+2. server for backend
+
+
+==>
+In server folder
+* Check node: node -v       v20.11.1
+1. npm init -y
+2. npm i express nodemon
+3. To use the .env file : npm i dotenv
+4. Using the sequelize orm for db schema for roles
+    npm install sequelize mysql2
+
