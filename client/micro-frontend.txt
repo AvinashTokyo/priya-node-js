@@ -1,0 +1,5 @@
+Micro Frontend
+======================
+
+1. npx create-mf-app
+2. npm install react-router-dom
